@@ -13,3 +13,25 @@ GitHub is a web-based platform that uses Git for version control and provides a 
 3. Social Coding: Encourages social interaction among developers with features like followers, stars, and forks.
 4. Integrated Services: Provides CI/CD integration, project boards, wikis, and pages for documentation.
 5. Web Interface: Offers a graphical user interface for managing repositories, viewing commits, and collaborating.
+
+Summary of Differences
+Functionality:
+
+Git: A version control system for tracking changes in code.
+GitHub: A platform for hosting Git repositories and facilitating collaboration with additional features.
+Nature:
+
+Git: Local tool installed on a developer’s machine.
+GitHub: Online service accessible via a web browser.
+Operations:
+
+Git: Command-line based operations for version control.
+GitHub: Web-based interface for managing repositories and collaborating.
+Collaboration:
+
+Git: Supports collaboration but requires a shared repository; no inherent web interface.
+GitHub: Built-in tools for collaboration, including web-based interfaces for pull requests, issue tracking, and code reviews.
+Accessibility:
+
+Git: Can be used without internet access; only local operations require no connectivity.
+GitHub: Requires internet access to interact with repositories hosted on GitHub.
