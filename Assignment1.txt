@@ -11,3 +11,5 @@ GitHub is a web-based platform that uses Git for version control and provides a 
 1. Repository Hosting: Hosts Git repositories, allowing developers to share code over the internet.
 2. Collaboration Tools: Includes features like pull requests, code reviews, issue tracking, and project management.
 3. Social Coding: Encourages social interaction among developers with features like followers, stars, and forks.
+4. Integrated Services: Provides CI/CD integration, project boards, wikis, and pages for documentation.
+5. Web Interface: Offers a graphical user interface for managing repositories, viewing commits, and collaborating.
