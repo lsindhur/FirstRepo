@@ -35,3 +35,15 @@ Accessibility:
 
 Git: Can be used without internet access; only local operations require no connectivity.
 GitHub: Requires internet access to interact with repositories hosted on GitHub.
+Example Workflow
+With Git Alone:
+
+Developer clones a repository from a central server (if available).
+Makes changes locally and commits them to their local repository.
+Shares changes by pushing to a shared repository or by other means.
+With Git and GitHub:
+
+Developer clones a repository from GitHub.
+Makes changes locally and commits them.
+Pushes changes to GitHub, where other developers can review and merge them.
+Uses GitHub’s web interface for discussions, issue tracking, and collaboration.
