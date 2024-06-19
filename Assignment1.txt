@@ -1,0 +1,7 @@
+What is Git?
+Git is a ditributed version control system that was created by Linus Torvalds in 2005 to track changes in source code during software development. Its key features are :
+1. Version Control: Manages and tracks changes to files, enabling developers to revert to previous states and view history.
+2. Branching and Merging: Allows creation of branches for isolated development and merging them back into the main codebase.
+3. Distributed System: Every developer has a complete copy of the repository, including its history.
+4. Command-Line Interface (CLI): Primarily operated through CLI commands, although graphical interfaces are available.
+5. Open Source: Developed as an open-source project and freely available.
