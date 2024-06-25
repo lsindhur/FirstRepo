@@ -1,0 +1,1 @@
+console.log(!1); //Not operator example, expected output "false" -by rizwan
